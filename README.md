@@ -27,7 +27,7 @@ In the top right margin, to the left of the green Run triangle, click on the pul
   
 ## 3 Define a test
 
-Tests are defined as function and the function name starts with 'test_'
+Tests are defined as function and the function name starts with 'test'
 
 
  

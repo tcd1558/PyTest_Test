@@ -1,7 +1,8 @@
 # PyTest_Test
 A PyTest project
 
-This is the project I created as a companion to the LinkedIn course "Unit Testing and Test Driver Development in Python" 
+This is the project I created as a companion to the LinkedIn course "Unit Testing and Test Driver Development in Python"
+Please read this document in raw mode
 
 ## 1 How to install pytest 
 
@@ -70,9 +71,9 @@ def test2()
   print{"test1")
   assert True
   
-  ----
-  By setting autouse=True as parameter, all tests will run the setup fixture. 
-  @pytest.fixture(autouse=True)
+----
+By setting autouse=True as parameter, all tests will run the setup fixture. 
+@pytest.fixture(autouse=True)
   
 ### 5.2 Teardown
 
